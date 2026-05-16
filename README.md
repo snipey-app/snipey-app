@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/Website-Coming%20Soon-9945FF)](https://snipey.app)
 [![Twitter](https://img.shields.io/badge/Twitter-%40snipeyapp-1DA1F2?logo=twitter)](https://twitter.com/snipeyapp)
-[![Telegram](https://img.shields.io/badge/Telegram-Bot-26A5E4?logo=telegram)](https://t.me/snipeybot)
+[![Telegram](https://img.shields.io/badge/Telegram-Announcements-26A5E4?logo=telegram)](https://t.me/snipey_announcement)
 
 </div>
 
@@ -109,10 +109,9 @@ Everything is containerized with Docker, so it runs the same on your laptop, a V
 ## Get Started
 
 ### Option 1: Use the Telegram Bot (Easiest)
-1. Message [@snipeybot](https://t.me/snipeybot) on Telegram
-2. Run `/start` to create your wallet
-3. Paste any token address to analyze it instantly
-4. Watch for `/opportunities` and `/v2catchup` alerts
+1. Join our [Telegram announcements channel](https://t.me/snipey_announcement) for updates
+2. Follow us on [X / Twitter](https://x.com/snipey_app) for alpha and launch alerts
+3. The trading bot is coming soon — stay tuned!
 
 ### Option 2: Run Your Own Instance
 For advanced users who want full control:
@@ -145,8 +144,8 @@ Full setup instructions are in the [main repository](https://github.com/snipey-a
 
 ## Community
 
-- **Twitter/X:** [@snipeyapp](https://twitter.com/snipeyapp)
-- **Telegram:** [Snipey Community](https://t.me/snipeyapp)
+- **Twitter/X:** [@snipey_app](https://x.com/snipey_app)
+- **Telegram:** [Announcements](https://t.me/snipey_announcement)
 - **Main Repo:** [github.com/snipey-app/snipey](https://github.com/snipey-app/snipey)
 
 ---
