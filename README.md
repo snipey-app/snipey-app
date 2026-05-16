@@ -4,7 +4,7 @@
 
 **Never miss the next Solana gem.**
 
-[![Website](https://img.shields.io/badge/Website-Coming%20Soon-9945FF)](https://snipey.app)
+[![Website](https://img.shields.io/badge/Website-snipey.vip-9945FF)](https://snipey.vip)
 [![Twitter](https://img.shields.io/badge/Twitter-%40snipeyapp-1DA1F2?logo=twitter)](https://twitter.com/snipeyapp)
 [![Telegram](https://img.shields.io/badge/Telegram-Announcements-26A5E4?logo=telegram)](https://t.me/snipey_announcement)
 
@@ -130,15 +130,20 @@ Full setup instructions are in the [main repository](https://github.com/snipey-a
 
 ## Roadmap
 
-- [x] X/Twitter alpha monitoring
-- [x] Technical analysis scoring (RSI, EMA, MACD)
-- [x] Telegram bot with wallet & trading
-- [x] Auto-trading with risk controls
-- [ ] Pump.fun launch detection
-- [ ] Multi-wallet support
-- [ ] Copy-trading leaderboards
-- [ ] Mobile app
-- [ ] Token-gated premium features
+### Phase 1: Foundation
+- X/Twitter alpha monitoring
+- Technical analysis scoring (RSI, EMA, MACD)
+- Telegram bot with wallet & trading
+- Auto-trading with risk controls
+
+### Phase 2: Scale
+- Pump.fun launch detection
+- Multi-wallet support
+- Copy-trading leaderboards
+
+### Phase 3: Expand
+- Mobile app
+- Token-gated premium features
 
 ---
 
