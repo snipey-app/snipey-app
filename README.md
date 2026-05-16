@@ -5,7 +5,7 @@
 **Never miss the next Solana gem.**
 
 [![Website](https://img.shields.io/badge/Website-snipey.vip-9945FF)](https://snipey.vip)
-[![Twitter](https://img.shields.io/badge/Twitter-%40snipeyapp-1DA1F2?logo=twitter)](https://twitter.com/snipeyapp)
+[![Twitter](https://img.shields.io/badge/Twitter-%40snipey_app-1DA1F2?logo=twitter)](https://x.com/snipey_app)
 [![Telegram](https://img.shields.io/badge/Telegram-Announcements-26A5E4?logo=telegram)](https://t.me/snipey_announcement)
 
 </div>
