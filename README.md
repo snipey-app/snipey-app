@@ -7,6 +7,9 @@
 [![Website](https://img.shields.io/badge/Website-snipey.vip-9945FF)](https://snipey.vip)
 [![Twitter](https://img.shields.io/badge/Twitter-%40snipey_app-1DA1F2?logo=twitter)](https://x.com/snipey_app)
 [![Telegram](https://img.shields.io/badge/Telegram-Announcements-26A5E4?logo=telegram)](https://t.me/snipey_announcement)
+[![TikTok](https://img.shields.io/badge/TikTok-%40snipeyapp-000000?logo=tiktok)](https://tiktok.com/@snipeyapp)
+[![Instagram](https://img.shields.io/badge/Instagram-snipey.app-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/snipey.app)
+[![YouTube](https://img.shields.io/badge/YouTube-%40snipeyapp-FF0000?logo=youtube)](https://youtube.com/@snipeyapp)
 
 </div>
 
@@ -151,6 +154,9 @@ Full setup instructions are in the [main repository](https://github.com/snipey-a
 
 - **Twitter/X:** [@snipey_app](https://x.com/snipey_app)
 - **Telegram:** [Announcements](https://t.me/snipey_announcement)
+- **TikTok:** [@snipeyapp](https://tiktok.com/@snipeyapp)
+- **Instagram:** [snipey.app](https://www.instagram.com/snipey.app)
+- **YouTube:** [@snipeyapp](https://youtube.com/@snipeyapp)
 - **Main Repo:** [github.com/snipey-app/snipey](https://github.com/snipey-app/snipey)
 
 ---
