@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎯 Snipey
+# 🎯 Snipey App
 
 **Never miss the next Solana gem.**
 
@@ -15,11 +15,11 @@
 
 ---
 
-## What is Snipey?
+## What is Snipey App?
 
-Snipey is an **intelligent trading companion** built for Solana that helps you discover, analyze, and act on token opportunities — faster than anyone else.
+Snipey App is an **intelligent trading companion** built for Solana that helps you discover, analyze, and act on token opportunities — faster than anyone else.
 
-The Solana memecoin and altcoin markets move in seconds. By the time you see a trending token on X (Twitter), the early buyers have already positioned. Snipey levels the playing field by monitoring the right signals, analyzing them instantly, and giving you actionable insights before the crowd catches on.
+The Solana memecoin and altcoin markets move in seconds. By the time you see a trending token on X (Twitter), the early buyers have already positioned. Snipey App levels the playing field by monitoring the right signals, analyzing them instantly, and giving you actionable insights before the crowd catches on.
 
 ---
 
@@ -32,16 +32,16 @@ If you've traded on Solana, you know the struggle:
 - **Analysis takes too long.** By the time you've checked liquidity, social sentiment, and chart patterns, the opportunity is gone.
 - **Emotional decisions.** FOMO buys and panic sells eat into your profits.
 
-Snipey was built to solve exactly this.
+Snipey App was built to solve exactly this.
 
 ---
 
 ## How It Works
 
-Snipey runs in three stages, 24/7:
+Snipey App runs in three stages, 24/7:
 
 ### 1. 🌐 Discover
-Snipey watches trusted "alpha" accounts on X (Twitter) and scans decentralized exchanges for brand new token launches. When a promising token appears, it captures the signal immediately — no refresh button needed.
+Snipey App watches trusted "alpha" accounts on X (Twitter) and scans decentralized exchanges for brand new token launches. When a promising token appears, it captures the signal immediately — no refresh button needed.
 
 ### 2. 📊 Analyze
 Every discovered token is automatically scored across three dimensions:
@@ -52,13 +52,13 @@ Every discovered token is automatically scored across three dimensions:
 | **Technical Health** | What does the price action look like? Are there signs of smart accumulation or early dumps? |
 | **On-Chain Strength** | Is there real liquidity? Are holders actually buying and holding, or just flipping? |
 
-Based on this, Snipey classifies every token into one of two modes:
+Based on this, Snipey App classifies every token into one of two modes:
 
 - **🟢 SNIPE** — Brand new tokens (< 30 minutes old) with strong early signals. High risk, high reward. Get in before the crowd.
 - **🔵 CATCH-UP** — Tokens that have been around for a few hours to a few days but show strong momentum. The smart entry after the initial hype settles.
 
 ### 3. 🤖 Act
-Snipey connects directly to your Telegram. You get:
+Snipey App connects directly to your Telegram. You get:
 
 - Instant alerts when high-scoring tokens are found
 - One-tap analysis of any token you paste
@@ -67,22 +67,22 @@ Snipey connects directly to your Telegram. You get:
 
 ---
 
-## Why Traders Love Snipey
+## Why Traders Love Snipey App
 
 ### ⚡ Speed
-Most traders discover tokens through manual scrolling. Snipey discovers them the moment they're posted by alpha accounts — often within seconds.
+Most traders discover tokens through manual scrolling. Snipey App discovers them the moment they're posted by alpha accounts — often within seconds.
 
 ### 🧠 Intelligence
-Not just a notification bot. Snipey actually *understands* whether a token looks promising or suspicious, so you spend less time researching bad opportunities.
+Not just a notification bot. Snipey App actually *understands* whether a token looks promising or suspicious, so you spend less time researching bad opportunities.
 
 ### 🛡️ Safety
-Built-in checks help you avoid obvious scams and rug-pulls. No tool is perfect, but Snipey filters out the worst before they ever reach you.
+Built-in checks help you avoid obvious scams and rug-pulls. No tool is perfect, but Snipey App filters out the worst before they ever reach you.
 
 ### 📱 Simple
 Everything happens in Telegram. No complex dashboards. No browser extensions. Just a bot that understands what you need.
 
 ### 💰 Cost Efficient
-Snipey uses free data sources and on-chain analysis instead of expensive paid APIs. That means more of your capital stays in your trades.
+Snipey App uses free data sources and on-chain analysis instead of expensive paid APIs. That means more of your capital stays in your trades.
 
 ---
 
@@ -97,7 +97,7 @@ Snipey uses free data sources and on-chain analysis instead of expensive paid AP
 
 ## What's Under the Hood?
 
-Snipey is composed of three specialized services working together:
+Snipey App is composed of three specialized services working together:
 
 | Service | Role |
 |---------|------|
